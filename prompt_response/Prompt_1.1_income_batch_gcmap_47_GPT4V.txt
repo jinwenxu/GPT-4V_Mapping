@@ -1,0 +1,26 @@
+The map provided is a choropleth map, which uses differences in shading, coloring, or the placing of symbols within predefined areas to indicate the average values of a property or quantity in those areas. Here are the map elements included in the given map:
+
+1. Title: "Choropleth Map of Per Capita Income in Tennessee Counties" - This provides the user with the subject of the map.
+
+2. Legend: The legend on the left side explains the color coding for the per capita income ranges:
+   - Light yellow represents "< $22.4K"
+   - Light orange represents "$22.4K - $25.8K"
+   - Orange represents "$25.8K - $30.7K"
+   - Dark orange represents "$30.7K - $36.4K"
+   - Red represents "≥ $36.4K"
+
+3. Color-coded counties: The counties are filled with colors corresponding to the legend, indicating the per capita income range for each county.
+
+4. Labels:
+   - "Nashville" label indicates the location of Nashville within the map.
+   - Latitude and longitude labels on the axes provide geographical coordinates.
+
+5. Latitude and longitude lines: These grid lines help to locate places on the map based on their geographical coordinates.
+
+6. Scale: While there is no explicit scale bar, the latitude and longitude lines can be used to infer distances on the map.
+
+7. Data classification: The map uses a classed data representation, where data values are grouped into categories as shown in the legend.
+
+8. Point symbol: A blue dot marks the location of Nashville on the map.
+
+These elements together help the viewer to interpret the spatial distribution of per capita income across the counties of Tennessee.

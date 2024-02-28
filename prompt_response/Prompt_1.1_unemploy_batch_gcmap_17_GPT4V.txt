@@ -1,0 +1,15 @@
+The map provided is a choropleth map showing the unemployment rate in Illinois counties. The elements included in this map are:
+
+1. Title: "Choropleth Map of Unemployment Rate in Illinois Counties" at the top of the map.
+2. Color-coded legend: A legend on the bottom left corner indicating the range of unemployment rates with corresponding colors:
+   - Light yellow for "< 3.91%"
+   - Yellow for "3.91% - 5.33%"
+   - Light orange for "5.33% - 6.61%"
+   - Orange for "6.61% - 9.51%"
+   - Dark red for "> 9.51%"
+3. County boundaries: Outlines of counties within Illinois.
+4. Latitude and longitude markers: Along the borders of the map, indicating the geographical coordinates.
+5. Location marker: A blue dot labeled "Springfield," indicating the location of the city within the state.
+6. Scale of latitude and longitude: The numerical values for latitude (degrees) on the left side and longitude (degrees) on the bottom of the map.
+
+These elements together provide a visual representation of the unemployment rates across different counties in Illinois, with the color intensity indicating the severity of unemployment in each county.

@@ -1,0 +1,9 @@
+ - Title: Proportional Symbol Map of Population in Maryland Counties
+- Map elements:
+ - Point symbols representing population
+ - Labels for the point symbols
+ - Line representing county borders
+ - Grid lines
+ - Legend
+ - Scale bar
+ - North arrow

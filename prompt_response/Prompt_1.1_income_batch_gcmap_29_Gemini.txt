@@ -1,0 +1,10 @@
+ The map elements included in the given map are:
+
+1. Title: "Choropleth Map of Per Capita Income in Missouri Counties"
+2. Map legend: "Per Capita Income" with categories and colors
+3. Missouri county boundaries
+4. Major city: Jefferson City
+5. Latitude and longitude lines
+6. Grid lines
+7. North arrow
+8. Scale bar

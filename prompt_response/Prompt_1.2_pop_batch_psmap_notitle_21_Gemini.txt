@@ -1,0 +1,1 @@
+ The given figure is a dot density map. It shows the distribution of a particular variable (e.g. population) across a geographic area. Each dot represents a certain number of people living in that area. The more dots there are in an area, the higher the population density.

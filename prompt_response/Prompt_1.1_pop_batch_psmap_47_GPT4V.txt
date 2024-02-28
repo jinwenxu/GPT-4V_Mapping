@@ -1,0 +1,12 @@
+The map provided is a Proportional Symbol Map of Population in Tennessee Counties. The elements included in this map are:
+
+1. Title: "Proportional Symbol Map of Population in Tennessee Counties" - This provides the user with the subject of the map.
+2. Symbols: Red circles of varying sizes - These represent the population of each county, with the size of the circle proportional to the population size.
+3. Legend: A box on the left side of the map that explains the meaning of the symbols, with circles representing population sizes of 10K, 50K, 100K, and 500K.
+4. Labels: "Nashville" is labeled with a blue text, indicating a significant location on the map.
+5. Latitude and Longitude: The map includes latitude and longitude lines, with labels on the axes (e.g., "Latitude (°)" and "Longitude (°)").
+6. County Boundaries: Outlines of counties are drawn on the map, providing a political boundary context for the data.
+7. Scale: While there is no explicit scale bar, the latitude and longitude lines can provide a sense of scale.
+8. Orientation: There is no explicit north arrow, but the map is oriented in the standard north-up orientation, which can be inferred from the latitude and longitude grid.
+
+These elements work together to convey the distribution of population across the counties of Tennessee.

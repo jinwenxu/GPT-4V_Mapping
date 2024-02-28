@@ -1,0 +1,16 @@
+The map elements included in the given choropleth map are:
+
+1. Title: "Choropleth Map of Per Capita Income in Ohio Counties" at the top of the map.
+2. Legend: A color-coded legend in the bottom left corner indicating the range of per capita income with corresponding colors:
+   - Red: Less than $25.1K
+   - Light Orange: $25.1K - $28.4K
+   - Orange: $28.4K - $32.0K
+   - Dark Orange: $32.0K - $37.8K
+   - Brown: More than $37.8K
+3. Labels: The name "Columbus" is labeled on the map, indicating the location of the city.
+4. Point Marker: A red dot marking the location of Columbus on the map.
+5. Latitude and Longitude: The map is gridded with latitude and longitude lines, with labels on the axes indicating degrees in latitude (vertical axis) and longitude (horizontal axis).
+6. Color Coding: The counties are filled with colors corresponding to the per capita income ranges indicated in the legend.
+7. Borders: The map shows the borders of the counties within Ohio.
+
+These elements together provide information about the geographic distribution of per capita income across the counties of Ohio, with a specific focus on the location of Columbus.

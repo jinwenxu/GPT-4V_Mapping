@@ -1,0 +1,7 @@
+ The map includes the following elements:
+1. A base map of Maryland counties.
+2. A choropleth map of unemployment rates by county.
+3. A point feature layer of the city of Annapolis.
+4. A legend explaining the choropleth map.
+5. A title: "Choropleth Map of Unemployment Rate in Maryland Counties"
+6. A graticule.

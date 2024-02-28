@@ -1,0 +1,1 @@
+ The given figure is a dot density map. It shows the distribution of a phenomenon (in this case, population) by placing a dot for each occurrence within a defined area. The dots are placed randomly within each area unit, so that the density of dots in an area is proportional to the magnitude of the phenomenon in that area.

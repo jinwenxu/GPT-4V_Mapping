@@ -1,0 +1,7 @@
+ 1. Title: Proportional Symbol Map of Population in Florida Counties
+2. Map body
+3. Legend
+4. Scale bar
+5. Grid
+6. Coordinate system: Latitude and Longitude
+7. Point symbols representing population

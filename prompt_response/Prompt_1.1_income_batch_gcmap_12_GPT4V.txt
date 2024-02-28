@@ -1,0 +1,17 @@
+The map elements included in the given choropleth map are:
+
+1. Title: "Choropleth Map of Per Capita Income in Florida Counties" at the top of the map.
+2. Legend: A color-coded legend on the bottom left corner indicating the range of per capita income with corresponding colors:
+   - Yellow: Less than $22.2K
+   - Light Orange: $22.2K - $27.1K
+   - Orange: $27.1K - $32.2K
+   - Dark Orange: $32.2K - $36.6K
+   - Red: Greater than $36.6K
+3. Latitude and Longitude Grid: The grid lines indicating latitude (vertical lines) and longitude (horizontal lines) with labels on the axes.
+4. Latitude Labels: Marked on the y-axis in degrees (°).
+5. Longitude Labels: Marked on the x-axis in degrees (°).
+6. Color-coded Counties: Each county is filled with a color corresponding to its per capita income bracket as indicated in the legend.
+7. City Marker: A blue dot labeled "Tallahassee" indicating the location of the city on the map.
+8. Coastline and County Borders: The outline of Florida and its counties are delineated, with the coastline being more prominent.
+
+These elements together provide the viewer with information about the geographic distribution of per capita income across the counties of Florida.

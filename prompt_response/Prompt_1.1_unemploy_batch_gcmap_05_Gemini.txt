@@ -1,0 +1,8 @@
+ The map includes the following elements:
+
+1. A base map of Arkansas counties.
+2. A choropleth map of the unemployment rate in Arkansas counties.
+3. A point feature layer of the capital city of Arkansas, Little Rock.
+4. A legend explaining the choropleth map.
+5. A graticule.
+6. A title.

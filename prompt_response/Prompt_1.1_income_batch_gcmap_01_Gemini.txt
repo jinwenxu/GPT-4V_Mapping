@@ -1,0 +1,8 @@
+ The map includes the following elements:
+
+1. A title: "Choropleth Map of Per Capita Income in Alabama Counties"
+2. A legend: "Per Capita Income" with five classes
+3. A base map of Alabama counties
+4. A point feature layer of Montgomery, Alabama
+5. A graticule
+6. A scale bar

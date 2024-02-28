@@ -1,0 +1,8 @@
+ The map includes the following elements:
+
+- A title: "Ohio Population"
+- A legend: "Population" with 5 classes
+- A scale bar
+- A graticule
+- A point of interest: "Columbus"
+- A base map of Ohio counties

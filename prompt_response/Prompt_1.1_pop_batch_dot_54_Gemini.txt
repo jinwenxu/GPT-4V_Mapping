@@ -1,0 +1,8 @@
+ The map includes the following elements:
+1. A title: "Dot Density Map of Population in West Virginia Counties"
+2. A legend: "Population" with four classes: 1K, 10K, 100K, and 1M
+3. A scale bar
+4. A graticule
+5. A point layer of population data
+6. A polygon layer of county boundaries
+7. A label for the city of Charleston

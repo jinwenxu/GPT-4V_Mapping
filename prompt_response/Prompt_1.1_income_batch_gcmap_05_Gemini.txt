@@ -1,0 +1,9 @@
+ The map includes the following elements:
+
+1. A title: "Arkansas Per Capita Income"
+2. A legend: "Per Capita Income" with five classes
+3. A base map with county boundaries and water bodies
+4. A point feature layer showing the location of Little Rock
+5. A graticule with latitude and longitude lines
+6. A north arrow
+7. A scale bar

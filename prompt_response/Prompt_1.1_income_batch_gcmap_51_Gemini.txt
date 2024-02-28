@@ -1,0 +1,6 @@
+ The map includes the following elements:
+
+1. A title: "Choropleth Map of Per Capita Income in Virginia Counties"
+2. A legend: "Per Capita Income" with five categories
+3. A map of Virginia with county boundaries and labels
+4. A point feature layer with a single point labeled "Richmond"

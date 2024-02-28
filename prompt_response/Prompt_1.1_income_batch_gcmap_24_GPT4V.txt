@@ -1,0 +1,16 @@
+The map elements included in the given choropleth map are:
+
+1. Title: "Choropleth Map of Per Capita Income in Maryland Counties" at the top of the map.
+2. Legend: A box in the lower left corner that explains the color coding for per capita income levels with five categories:
+   - Light yellow represents "< $23.6K"
+   - Yellow represents "$23.6K - $34.8K"
+   - Orange represents "$34.8K - $42.1K"
+   - Red represents "$42.1K - $49.1K"
+   - Dark red represents "> $49.1K"
+3. Color coding: The map uses different shades of yellow, orange, and red to represent various ranges of per capita income across the counties in Maryland.
+4. Labels: The city of Annapolis is labeled in blue text on the map.
+5. Latitude and longitude markers: Along the borders of the map, there are numerical indicators for latitude (vertical on the left side) and longitude (horizontal on the bottom) in degrees.
+6. Geographic boundaries: The map shows the outlines of Maryland counties.
+7. Scale: While there is no explicit scale bar, the latitude and longitude markers can be used to infer distances.
+
+The map does not include a north arrow, which is often found on maps to indicate direction, but given the context and the presence of latitude and longitude markers, the top of the map can be assumed to be north.

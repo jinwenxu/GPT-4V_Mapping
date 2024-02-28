@@ -1,0 +1,8 @@
+ The map elements included in the given map are:
+1. Title: "Proportional Symbol Map of Population in Virginia Counties"
+2. Map body: A map of Virginia, showing the counties and their populations.
+3. Legend: A legend showing the population ranges for the different symbols.
+4. Scale bar: A scale bar showing the distance in miles.
+5. North arrow: A north arrow showing the direction of north.
+6. Grid lines: Grid lines showing the latitude and longitude of the map.
+7. Labels: Labels showing the names of the counties and cities.

@@ -1,0 +1,1 @@
+ This is a choropleth map. A choropleth map uses different colors or shades to indicate the average value of a variable within a predefined area. In this case, the variable is population, and the predefined areas are counties.

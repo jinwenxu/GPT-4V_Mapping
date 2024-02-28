@@ -1,0 +1,11 @@
+ The map includes the following elements:
+1. Title: Dot Density Map of Population in Alabama Counties
+2. Data: Population data of Alabama counties
+3. Map elements:
+ - Dots representing population density
+ - County boundaries
+ - Latitude and longitude lines
+ - Scale bar
+ - North arrow
+ - Legend
+ - Inset map of Alabama

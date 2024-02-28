@@ -1,0 +1,19 @@
+The map provided is a choropleth map showing per capita income in Mississippi counties. The elements included in this map are:
+
+1. Title: "Choropleth Map of Per Capita Income in Mississippi Counties" at the top of the map.
+2. Color Legend: A legend on the bottom left corner indicating the range of per capita income with corresponding colors:
+   - Light yellow for "< $17.6K"
+   - Yellow for "$17.6K - $21.6K"
+   - Light orange for "$21.6K - $25.7K"
+   - Orange for "$25.7K - $30.8K"
+   - Dark red for "> $30.8K"
+3. Labels:
+   - "Per Capita Income" label next to the legend.
+   - "Jackson" label indicating the location of Jackson, the capital city of Mississippi.
+4. Geographical Markers:
+   - A blue dot marking the location of Jackson.
+5. Latitude and Longitude Grid: Lines and labels indicating latitude (30° to 35°) on the left side and longitude (-91.5° to -88.0°) on the bottom of the map.
+6. County Boundaries: Outlines of the counties within the state of Mississippi.
+7. Color Coding: Each county is filled with a color corresponding to its per capita income bracket as per the legend.
+
+The map uses color intensities to represent different ranges of per capita income, with darker colors typically representing higher income levels.

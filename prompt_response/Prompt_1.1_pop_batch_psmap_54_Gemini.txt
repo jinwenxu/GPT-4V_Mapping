@@ -1,0 +1,11 @@
+ The map elements included in the given map are:
+1. Title: Proportional Symbol Map of Population in West Virginia Counties
+2. Map Projection: Unknown
+3. Scale Bar: No
+4. Legend: Yes
+5. Compass Rose: No
+6. Graticule: Yes
+7. Data Points: Yes
+8. Labels: Yes
+9. Insets: No
+10.Neatline: No

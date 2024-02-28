@@ -1,0 +1,7 @@
+ The map includes the following elements:
+
+* A title: "Choropleth Map of Unemployment Rate in West Virginia Counties"
+* A legend: "Unemployment Rate" with five classes
+* A point feature layer: "Charleston"
+* A graticule
+* A background layer

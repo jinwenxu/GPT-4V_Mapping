@@ -1,0 +1,1 @@
+ This is a choropleth map that uses different colors to indicate the population density in different areas.

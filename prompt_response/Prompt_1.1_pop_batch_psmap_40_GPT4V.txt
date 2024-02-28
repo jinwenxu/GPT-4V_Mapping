@@ -1,0 +1,19 @@
+The map provided is a Proportional Symbol Map of Population in Oklahoma Counties, and it includes the following elements:
+
+1. Title: The title "Proportional Symbol Map of Population in Oklahoma Counties" is at the top of the map, indicating the map's purpose and geographic focus.
+
+2. Symbols: There are circular symbols of varying sizes representing the population of each county. The size of each circle corresponds to the population size, with larger circles indicating higher populations.
+
+3. Legend: In the bottom left corner, there is a legend that explains the sizes of the symbols in relation to population numbers. It shows four different sizes of circles corresponding to populations of 10K (10,000), 50K (50,000), 100K (100,000), and 500K (500,000).
+
+4. Geographic Coordinates: The map includes latitude and longitude lines, with labels on the axes. Latitude is shown on the vertical (y) axis, and longitude is shown on the horizontal (x) axis.
+
+5. County Boundaries: The map displays the boundaries of the counties within Oklahoma.
+
+6. City Marker: There is a special marker (a blue dot with a label) indicating the location of Oklahoma City, the state's capital and largest city.
+
+7. Scale: While there is no numeric scale bar, the proportional symbols serve as an indirect scale for population size.
+
+8. Grid: A grid overlay is present, formed by the latitude and longitude lines, which helps in locating specific points on the map.
+
+These elements combined allow the map to convey information about the distribution and relative size of populations across the counties in Oklahoma.

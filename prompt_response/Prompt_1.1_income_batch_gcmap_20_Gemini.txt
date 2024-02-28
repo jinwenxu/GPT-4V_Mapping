@@ -1,0 +1,7 @@
+ The given map of per capita income in Kansas counties includes the following map elements:
+
+* A title: "Choropleth Map of Per Capita Income in Kansas Counties"
+* A legend: "Per Capita Income" with categories and colors
+* A scale bar
+* A graticule
+* A point feature layer showing the location of Topeka, the capital city of Kansas

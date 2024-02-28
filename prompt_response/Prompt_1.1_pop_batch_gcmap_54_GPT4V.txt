@@ -1,0 +1,15 @@
+The map provided is a choropleth map showing the population distribution across counties in West Virginia. The elements included in this map are:
+
+1. Title: "Choropleth Map of Population in West Virginia Counties" at the top of the map.
+2. Color Legend: A legend on the bottom left side indicating the population ranges associated with specific colors:
+   - Light yellow for "< 18.7K" (less than 18,700 people)
+   - Light orange for "18.7K - 43.6K" (18,700 to 43,600 people)
+   - Medium orange for "43.6K - 75.3K" (43,600 to 75,300 people)
+   - Dark orange for "75.3K - 115.3K" (75,300 to 115,300 people)
+   - Red for "> 115.3K" (more than 115,300 people)
+3. County Boundaries: Outlines of counties within West Virginia, each filled with a color corresponding to its population range.
+4. Latitude and Longitude Markers: Along the borders of the map, indicating the geographical coordinates.
+5. A Point Marker: A blue dot labeled "Charleston," indicating the location of the city of Charleston within the state.
+6. Axes Labels: "Latitude (°)" on the y-axis and "Longitude (°)" on the x-axis.
+
+The map uses color gradation to represent different population densities, with darker or more intense colors typically representing higher population densities.

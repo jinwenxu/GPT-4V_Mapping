@@ -1,0 +1,1 @@
+ This is a choropleth map that uses differences in color to indicate the average unemployment rates in different counties in the state of Kansas.

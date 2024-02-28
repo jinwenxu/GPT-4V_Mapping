@@ -1,0 +1,8 @@
+ The map includes the following elements:
+1. A title: "Dot Density Map of Population in Georgia Counties"
+2. A legend: "Population" with three categories: 1K, 10K, and 1M
+3. A scale bar
+4. A graticule
+5. A blue dot representing Atlanta
+6. County borders
+7. A background of Georgia

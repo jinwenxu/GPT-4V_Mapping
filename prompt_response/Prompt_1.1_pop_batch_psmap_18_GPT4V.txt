@@ -1,0 +1,12 @@
+The map elements included in the given map are:
+
+1. Title: "Proportional Symbol Map of Population in Indiana Counties" at the top, indicating the subject and type of the map.
+2. Symbols: Red circles of varying sizes representing the population in each county, with a larger circle indicating a larger population.
+3. Legend: In the lower left corner, there is a legend explaining the population sizes corresponding to the different sizes of the red circles (10K, 50K, 100K, 500K).
+4. Labels: The name "Indianapolis" is labeled on the map, indicating the location of the city.
+5. Scale: There is no explicit scale bar, but the latitude and longitude grid can serve as a reference for scale.
+6. Latitude and Longitude: The map includes latitude and longitude lines, marked on the axes in degrees (°).
+7. Inset Map: A small inset map in the lower left corner provides a context for the main map, showing the state of Indiana with a red dot indicating the location of the main map within the state.
+8. Border: The map has a border outlining the state of Indiana and its counties.
+
+These elements help the user understand the geographic distribution of population across the counties of Indiana.

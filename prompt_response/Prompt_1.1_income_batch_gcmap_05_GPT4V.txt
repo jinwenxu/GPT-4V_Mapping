@@ -1,0 +1,16 @@
+The map elements included in the given choropleth map are:
+
+1. Title: "Choropleth Map of Per Capita Income in Arkansas Counties" at the top of the map.
+2. Legend: A color-coded legend in the lower-left corner indicating the range of per capita income with corresponding colors:
+   - Light yellow for "< $19.2K"
+   - Yellow-orange for "$19.2K - $22.2K"
+   - Orange for "$22.2K - $24.7K"
+   - Dark orange for "$24.7K - $28.2K"
+   - Red for "> $28.2K"
+3. Labels: The map includes a label for "Little Rock," indicating the location of the city.
+4. Latitude and Longitude: The map has latitude and longitude lines marked on the borders, with latitude on the y-axis (vertical) and longitude on the x-axis (horizontal).
+5. Color Coding: The counties are color-coded according to the legend to represent different ranges of per capita income.
+6. Scale: While there is no explicit scale bar, the latitude and longitude markers can be used to infer distances.
+7. Border Lines: The map shows the borders of the counties within Arkansas.
+
+These elements help to convey the geographic distribution of per capita income across the counties of Arkansas.

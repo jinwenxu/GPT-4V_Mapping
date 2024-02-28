@@ -1,0 +1,7 @@
+ The map includes the following elements:
+1. A title: "Choropleth Map of Unemployment Rate in Ohio Counties"
+2. A legend: "Unemployment Rate" with five classes
+3. A scale bar
+4. A graticule
+5. A point feature layer: "Columbus"
+6. A background layer: "Ohio counties"

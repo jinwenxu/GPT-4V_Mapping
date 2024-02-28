@@ -1,0 +1,10 @@
+ The map includes the following elements:
+
+1. A base map of Tennessee counties.
+2. A choropleth map of unemployment rates by county.
+3. A legend explaining the choropleth map.
+4. A title: "Choropleth Map of Unemployment Rate in Tennessee Counties".
+5. A scale bar.
+6. A north arrow.
+7. A graticule.
+8. A point feature layer showing the location of Nashville.

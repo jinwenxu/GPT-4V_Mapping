@@ -1,0 +1,24 @@
+The map elements included in the given choropleth map are:
+
+1. Title: "Choropleth Map of Per Capita Income in Texas Counties" at the top of the map, indicating the subject and geographic area the map represents.
+
+2. Color Legend: A legend on the bottom left corner that explains the color coding for per capita income ranges in the counties of Texas. The colors range from light yellow to dark red, representing increasing income brackets:
+   - Light Yellow: < $19.3K
+   - Light Orange: $19.3K - $24.1K
+   - Orange: $24.1K - $28.6K
+   - Dark Orange: $28.6K - $35.1K
+   - Dark Red: > $35.1K
+
+3. Labels:
+   - "Austin" is labeled in the central part of the map, indicating the location of the city within Texas.
+   - Latitude and Longitude labels are provided along the borders of the map, indicating the geographical coordinates.
+
+4. Latitude and Longitude Lines: The grid lines on the map correspond to latitude (horizontal lines) and longitude (vertical lines), helping to locate specific areas by their geographical coordinates.
+
+5. Map Scale: While there is no explicit numerical scale, the latitude and longitude lines can be used to infer distances between locations on the map.
+
+6. Borders: The map shows the outline of Texas and its county borders, with each county colored according to the legend to represent per capita income data.
+
+7. Color Coding: The counties are filled with colors corresponding to the legend, indicating the per capita income range for each county.
+
+These elements together provide a visual representation of the distribution of per capita income across the counties of Texas.

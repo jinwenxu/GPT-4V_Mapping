@@ -1,0 +1,6 @@
+ The map includes the following elements:
+- A title: "Choropleth Map of Unemployment Rate in South Carolina Counties"
+- A legend: "Unemployment Rate" with 5 classes
+- A base map with county boundaries and a blue dot标记哥伦比亚市
+- A graticule with latitude and longitude lines
+- A scale bar

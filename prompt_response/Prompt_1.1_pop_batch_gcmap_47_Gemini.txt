@@ -1,0 +1,10 @@
+ The map includes the following elements:
+
+* A base map of the state of Tennessee
+* A choropleth map of the population of Tennessee counties
+* A legend for the choropleth map
+* A title: "Choropleth Map of Population in Tennessee Counties"
+* A scale bar
+* A north arrow
+* A graticule
+* An inset map of the state of Tennessee

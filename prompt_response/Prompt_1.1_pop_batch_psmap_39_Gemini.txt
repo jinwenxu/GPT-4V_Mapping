@@ -1,0 +1,8 @@
+ The given map of Ohio includes the following map elements:
+1. Title: "Proportional Symbol Map of Population in Ohio Counties"
+2. Map body: A map of the state of Ohio, showing its counties and their populations represented by proportional symbols.
+3. Legend: A legend explaining the relationship between the size of the symbols and the population of the counties.
+4. Scale bar: A scale bar showing the distance in miles.
+5. North arrow: An arrow showing the direction of north.
+6. Graticule: A graticule showing the latitude and longitude of the state.
+7.Inset map: A small map of the United States, showing the location of Ohio within the country.

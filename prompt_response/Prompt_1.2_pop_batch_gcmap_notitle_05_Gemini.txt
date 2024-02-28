@@ -1,0 +1,1 @@
+ The given figure is a choropleth map. A choropleth map uses different colors or shades to indicate the average value of a variable within a geographic area. In this case, the variable is population density. The darker the color, the higher the population density.

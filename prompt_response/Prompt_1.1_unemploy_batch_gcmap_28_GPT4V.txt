@@ -1,0 +1,16 @@
+The map elements included in the given choropleth map are:
+
+1. Title: "Choropleth Map of Unemployment Rate in Mississippi Counties" at the top of the map, indicating the subject and geographic focus of the map.
+2. Legend: A color-coded legend on the bottom left side that explains the unemployment rate categories represented by different colors:
+   - Light yellow: Unemployment rate less than 6.34%
+   - Yellow: Unemployment rate between 6.34% and 8.95%
+   - Orange: Unemployment rate between 8.95% and 11.88%
+   - Red: Unemployment rate between 11.88% and 16.28%
+   - Dark red: Unemployment rate greater than 16.28%
+3. Color-coded counties: The map itself shows the counties of Mississippi, each filled with a color corresponding to the unemployment rate category from the legend.
+4. Latitude and longitude markers: Along the borders of the map, there are numerical markers indicating the latitude (on the left side) and longitude (on the bottom) in degrees.
+5. City marker: A blue dot labeled "Jackson," indicating the location of the city of Jackson within the state.
+6. Scale: While there is no explicit scale bar, the latitude and longitude markers can be used to infer distances on the map.
+7. Border lines: The map shows the outline of Mississippi and its county borders.
+
+These elements together provide the viewer with information about the geographic distribution of unemployment rates across the counties of Mississippi.

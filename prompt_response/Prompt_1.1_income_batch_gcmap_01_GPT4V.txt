@@ -1,0 +1,16 @@
+The map you've provided is a choropleth map showing per capita income in Alabama counties. Here are the map elements included:
+
+1. Title: "Choropleth Map of Per Capita Income in Alabama Counties" at the top of the map.
+2. Color Legend: A legend on the bottom left corner indicating the range of per capita income with corresponding colors:
+   - Light yellow for "< $19.0K"
+   - Light orange for "$19.0K - $22.7K"
+   - Orange for "$22.7K - $25.9K"
+   - Dark orange for "$25.9K - $29.8K"
+   - Red for "> $29.8K"
+3. Labels: The name "Montgomery" is labeled on the map, indicating the location of Montgomery, Alabama.
+4. Latitude and Longitude: The map has latitude and longitude lines marked on the borders, with latitude on the y-axis and longitude on the x-axis.
+5. Scale: The latitude and longitude lines also serve as a scale to understand the geographic extent of the map.
+6. Color Coding: The counties are color-coded according to the legend to represent different income ranges.
+7. Geographic Boundaries: The map shows the boundaries of the counties within Alabama.
+
+These elements help to convey the geographic distribution of per capita income across the counties in Alabama.

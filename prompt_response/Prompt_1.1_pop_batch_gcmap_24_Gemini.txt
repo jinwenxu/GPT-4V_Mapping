@@ -1,0 +1,6 @@
+ The map includes the following elements:
+
+1. A title: "Choropleth Map of Population in Maryland Counties"
+2. A legend: "Population" with 5 classes
+3. A point feature layer: "Annapolis"
+4. A background layer: "Maryland Counties"

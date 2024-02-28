@@ -1,0 +1,22 @@
+The map provided is a choropleth map, which uses differences in shading, coloring, or the placing of symbols within predefined areas to indicate the average values of a property or quantity in those areas. Here are the map elements included in this map:
+
+1. Title: "Choropleth Map of Per Capita Income in North Carolina Counties" - This provides the user with the subject of the map.
+
+2. Legend: The legend on the left side of the map explains the color coding for the per capita income ranges:
+   - Light yellow represents "< $22.0K"
+   - Yellow represents "$22.0K - $26.0K"
+   - Light orange represents "$26.0K - $29.5K"
+   - Orange represents "$29.5K - $36.4K"
+   - Dark red represents "> $36.4K"
+
+3. Scale: There is no explicit scale bar, but the latitude and longitude grid can serve as a reference for scale and orientation.
+
+4. Latitude and Longitude Grid: The grid lines are labeled with latitude and longitude coordinates, which helps to locate specific areas on the map.
+
+5. Data Classification: The map uses a color gradient to represent different ranges of per capita income, which is a method of data classification.
+
+6. Location Marker: A blue dot labeled "Raleigh" indicates the location of Raleigh, the capital city of North Carolina.
+
+7. Borders: The map shows the borders of the counties within North Carolina.
+
+These elements together help the user to interpret the geographic distribution of per capita income across the counties of North Carolina.

@@ -1,0 +1,6 @@
+ The map includes the following elements:
+- A title: "Choropleth Map of Population in Texas Counties"
+- A legend: "Population" with 5 categories
+- A scale bar
+- A graticule
+- A point feature layer of the capital city of Texas, Austin

@@ -1,0 +1,19 @@
+The map provided is a Proportional Symbol Map of Population in West Virginia Counties, and it includes the following elements:
+
+1. Title: "Proportional Symbol Map of Population in West Virginia Counties" at the top of the map, which describes the map's content and purpose.
+
+2. Symbols: Red circles of varying sizes represent the population in each county. The size of each circle is proportional to the population it represents.
+
+3. Legend: In the bottom left corner, there is a legend explaining the sizes of the circles corresponding to population amounts. It shows four different circle sizes for populations of 10K, 50K, 100K, and 500K.
+
+4. Scale: There is no explicit scale bar, but the latitude and longitude grid can serve as a reference for scale and orientation.
+
+5. Latitude and Longitude: The map includes a grid with latitude and longitude lines, labeled on the axes in degrees (°).
+
+6. Geographic Labels: The city of Charleston is labeled with a blue dot and text, indicating a significant location on the map.
+
+7. County Boundaries: The map shows the boundaries of the counties in West Virginia with black lines.
+
+8. Axes Labels: The axes are labeled "Latitude (°)" on the y-axis and "Longitude (°)" on the x-axis, indicating the geographic coordinates.
+
+These elements together provide a visual representation of the population distribution across the counties of West Virginia.

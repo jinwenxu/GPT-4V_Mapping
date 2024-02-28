@@ -1,0 +1,6 @@
+ The map includes the following elements:
+
+- A title: "Choropleth Map of Unemployment Rate in Virginia Counties"
+- A legend: "Unemployment Rate" with 5 classes
+- A point feature layer: "Richmond"
+- A basemap

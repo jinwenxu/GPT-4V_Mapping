@@ -1,0 +1,8 @@
+ The map includes the following elements:
+* A base map of Kentucky with county boundaries
+* A dot density layer showing the population of each county
+* A legend explaining the dot density layer
+* A title: "Dot Density Map of Population in Kentucky Counties"
+* A scale bar
+* A north arrow
+* A graticule

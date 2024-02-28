@@ -1,0 +1,1 @@
+ This is a choropleth map. It uses differences in color to indicate the average values in those areas. This map shows per capita income by county.

@@ -1,0 +1,7 @@
+ The map includes the following elements:
+- A title: "Dot Density Map of Population in Maryland Counties"
+- A legend: "Population" with four classes: 1K, 10K, 100K, and 1M
+- A red dot标记安娜波利斯的位置
+- County borders
+- Latitude and longitude lines
+- A scale bar

@@ -1,0 +1,1 @@
+The given map includes the following elements: a dot density map of Maryland, a legend, a map of Maryland, and a dot density map of the United States.

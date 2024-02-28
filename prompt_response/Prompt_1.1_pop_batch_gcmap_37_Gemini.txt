@@ -1,0 +1,10 @@
+ The map includes the following elements:
+
+- A base map of North Carolina, including county boundaries and major cities.
+- A choropleth map of population by county, using a diverging color scheme.
+- A legend explaining the choropleth map.
+- A title: "Choropleth Map of Population in North Carolina Counties"
+- A scale bar.
+- A north arrow.
+- A graticule.
+- A point feature layer showing the location of Raleigh, the capital of North Carolina.

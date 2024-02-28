@@ -1,0 +1,7 @@
+ The map includes the following elements:
+1. A title: "Choropleth Map of Unemployment Rate in Indiana Counties"
+2. A legend: "Unemployment Rate" with 5 classes
+3. A scale bar
+4. A graticule
+5. A point feature layer with a single point and label "Indianapolis"
+6. A background layer of Indiana counties filled with colors according to the unemployment rate

@@ -1,0 +1,12 @@
+The map elements included in the given map are:
+
+1. Title: "Proportional Symbol Map of Population in Arkansas Counties" at the top of the map, indicating the map's theme and geographic focus.
+2. Symbols: Red circles of varying sizes representing the population in each county, with a larger circle indicating a larger population.
+3. Legend: Located in the bottom left corner, it explains the meaning of the symbols' sizes, correlating them with population numbers (10K, 50K, 100K, 500K).
+4. Labels: The name "Little Rock" is labeled, indicating the location of the city on the map.
+5. Latitude and Longitude markers: Along the borders of the map, indicating the geographic coordinates.
+6. Scale: Not explicitly shown as a graphical scale bar, but the latitude and longitude markers can be used to infer distances.
+7. County boundaries: Lines delineating the borders of the counties within Arkansas.
+8. State boundary: The outline of the state of Arkansas is visible, with the map focusing on the interior county divisions.
+
+The map does not appear to have a north arrow, which is often included to indicate map orientation, or a scale bar for precise measurement of distances.

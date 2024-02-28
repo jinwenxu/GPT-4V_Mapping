@@ -1,0 +1,10 @@
+ The map elements included in the given map are:
+1. Title: Proportional Symbol Map of Population in Georgia Counties
+2. Map Projection: Latitude and Longitude
+3. Data Representation: Proportional symbols representing population
+4. Legend: Population categories with corresponding symbol sizes
+5. Scale bar
+6. Grid lines
+7. Political boundaries: County borders
+8. Water bodies: Rivers and lakes
+9. Major Cities: Atlanta

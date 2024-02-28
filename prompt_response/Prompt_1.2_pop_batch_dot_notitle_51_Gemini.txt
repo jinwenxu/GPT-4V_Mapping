@@ -1,0 +1,1 @@
+ The figure is a dot density map. It shows the distribution of a point feature (in this case, the population) across a geographic area. The dots are placed randomly within each unit (in this case, a county), and the density of the dots indicates the relative concentration of the feature within that unit.

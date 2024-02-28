@@ -1,0 +1,7 @@
+ The given map is a choropleth map that uses different colors to represent the population density of different counties in South Carolina. 
+
+- A title: "Choropleth Map of Population in South Carolina Counties"
+- A legend: "Population" with 5 classes
+- A scale bar 
+- A graticule 
+- A point feature layer with a single point located in Columbia, SC

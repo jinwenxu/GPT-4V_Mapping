@@ -1,0 +1,10 @@
+ The given map is a choropleth map that uses differences in color to indicate the average values in those areas.
+
+## Map elements included:
+* Title: "Choropleth Map of Population in Indiana Counties"
+* Map projection: Plate Carree
+* Legend: explains the relationship between color and population values
+* Scale bar: indicates the distance represented by a given distance on the map
+* North arrow: indicates the direction of north
+* Grid lines: provide reference points for locating places on the map
+* Point feature: shows the location of Indianapolis, the capital of Indiana

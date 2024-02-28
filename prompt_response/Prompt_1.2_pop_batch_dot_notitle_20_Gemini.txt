@@ -1,0 +1,1 @@
+ The given figure is a dot density map. It shows the distribution of a particular phenomenon (in this case, it seems to be population) by placing a dot or other small symbol at each location where the phenomenon occurs. The more dots there are in a given area, the higher the density of the phenomenon in that area.

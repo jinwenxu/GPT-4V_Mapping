@@ -1,0 +1,1 @@
+ This is a choropleth map. It uses different colors to indicate the unemployment rate in different areas.

@@ -1,0 +1,8 @@
+ The map includes the following elements:
+- A title: "Dot Density Map of Population in Louisiana Counties"
+- A legend explaining the dot density
+- A scale bar
+- A graticule
+- A point feature layer representing the cities with a population over 1M (Baton Rouge)
+- A polygon feature layer representing the Louisiana state boundary
+- A polygon feature layer representing the Louisiana county boundaries

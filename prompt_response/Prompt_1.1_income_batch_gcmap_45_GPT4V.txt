@@ -1,0 +1,24 @@
+The map provided is a choropleth map, and it includes the following elements:
+
+1. Title: "Choropleth Map of Per Capita Income in South Carolina Counties" at the top of the map, which describes the map's theme and geographic area.
+
+2. Legend: In the lower-left corner, there is a legend that explains the color coding for the per capita income ranges:
+   - Yellow: Less than $20.3K
+   - Light Orange: $20.3K - $23.5K
+   - Orange: $23.5K - $28.4K
+   - Dark Orange: $28.4K - $34.0K
+   - Red: Greater than $34.0K
+
+3. Color-coded counties: The counties are filled with colors corresponding to the per capita income range indicated in the legend.
+
+4. Labels:
+   - Latitude and longitude labels on the axes (Latitude on the y-axis and Longitude on the x-axis).
+   - A label for "Columbia," which is likely the capital city of South Carolina, marked with a blue dot.
+
+5. Scale: The latitude and longitude lines provide a grid that can help estimate the scale and distances on the map.
+
+6. Borders: The map shows the borders of the counties within South Carolina.
+
+7. Coordinate system: The map uses a coordinate system indicated by the latitude and longitude lines, which are marked in degrees.
+
+These elements together provide the viewer with information about the geographic distribution of per capita income across the counties of South Carolina.

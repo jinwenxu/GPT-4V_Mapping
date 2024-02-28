@@ -1,0 +1,10 @@
+ The map includes the following elements:
+
+- A base map of Kentucky counties
+- A choropleth layer showing per capita income by county
+- A legend explaining the choropleth layer
+- A title: "Choropleth Map of Per Capita Income in Kentucky Counties"
+- A scale bar
+- A north arrow
+- A graticule
+- A point feature layer showing the location of Frankfort, the capital of Kentucky

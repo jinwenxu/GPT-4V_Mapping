@@ -1,0 +1,22 @@
+The map you've provided is a choropleth map, which uses differences in shading, coloring, or the placing of symbols within predefined areas to indicate the average values of a property or quantity in those areas. Here are the elements included in this map:
+
+1. Title: "Choropleth Map of Per Capita Income in Missouri Counties" - This provides the viewer with the subject of the map.
+
+2. Color-coded legend: The legend explains the meaning of the colors used on the map, correlating to different ranges of per capita income:
+   - Light yellow: Less than $21.5K
+   - Yellow-orange: $21.5K - $24.5K
+   - Orange: $24.5K - $27.7K
+   - Red-orange: $27.7K - $34.6K
+   - Dark red: More than $34.6K
+
+3. County boundaries: The lines that demarcate the borders of the counties within the state of Missouri.
+
+4. Highlighted city: "Jefferson City" is labeled and highlighted, indicating the state capital or a city of interest.
+
+5. Latitude and longitude markers: Along the borders of the map, there are numerical indicators for latitude (vertical on the left side) and longitude (horizontal on the bottom), which help to locate the area geographically.
+
+6. Latitude and longitude grid: The grid overlaying the map, formed by the latitude and longitude lines, helps in precisely locating different areas on the map.
+
+7. Color shading: The various counties are shaded according to the legend to represent the per capita income levels within those counties.
+
+These elements together help the viewer to interpret the geographic distribution of per capita income across the counties of Missouri.

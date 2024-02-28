@@ -1,0 +1,6 @@
+ The map shows proportional symbols representing population in Kansas counties. Other map elements include:
+* A title: Proportional Symbol Map of Population in Kansas Counties
+* A legend showing the relationship between symbol size and population
+* A scale bar showing the distance in miles
+* A graticule showing latitude and longitude
+* A blue dot showing the location of Topeka, the capital of Kansas

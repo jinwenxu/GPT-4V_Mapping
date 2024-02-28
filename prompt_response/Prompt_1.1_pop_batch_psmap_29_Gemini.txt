@@ -1,0 +1,8 @@
+ The map includes the following elements:
+1. Title: Proportional Symbol Map of Population in Missouri Counties
+2. Map body: A map of Missouri showing the population of each county represented by proportional symbols.
+3. Legend: A legend explaining the meaning of the proportional symbols.
+4. Scale bar: A scale bar showing the distance represented by one unit on the map.
+5. North arrow: An arrow showing the direction of north.
+6. Graticule: A grid of lines showing the latitude and longitude of the map.
+7.Inset map: A small map of Missouri showing the location of Jefferson City, the capital of Missouri.

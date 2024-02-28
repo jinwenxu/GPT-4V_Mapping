@@ -1,0 +1,1 @@
+The given map includes a map of Indiana, a table of data, and a list of cities in Indiana.

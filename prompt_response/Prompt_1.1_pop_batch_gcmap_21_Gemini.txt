@@ -1,0 +1,7 @@
+ The map includes the following elements:
+- A title: "Choropleth Map of Population in Kentucky Counties"
+- A legend: "Population" with 5 classes
+- A scale bar
+- A graticule
+- A point feature layer of Frankfort, KY
+- A background layer of Kentucky counties

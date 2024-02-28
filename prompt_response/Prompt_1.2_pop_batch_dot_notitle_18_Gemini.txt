@@ -1,0 +1,1 @@
+ The given figure is a dot distribution map. It shows the distribution of a single phenomenon (in this case, population) across a geographic area. Each dot represents a specific number of people living in a particular location.

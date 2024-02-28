@@ -1,0 +1,1 @@
+The given figure represents a choropleth map. A choropleth map uses different shades or colors to indicate the average values of a particular quantity in predefined regions, such as counties or states. In this case, the map is showing the per capita income levels across different regions, with the color key indicating the income ranges associated with each color.

@@ -1,0 +1,22 @@
+The map you've provided is a choropleth map, which uses differences in shading, coloring, or the placing of symbols within predefined areas to indicate the average values of a property or quantity in those areas. Here are the map elements included in the given map:
+
+1. Title: "Choropleth Map of Per Capita Income in Kentucky Counties" - This provides the user with the subject of the map.
+
+2. Legend: The legend on the bottom left corner explains the color coding for the per capita income ranges in the counties. It has five color categories, each representing a range of per capita income:
+   - Light yellow: Less than $19.5K
+   - Yellow: $19.5K - $23.3K
+   - Orange: $23.3K - $26.4K
+   - Reddish-orange: $26.4K - $31.1K
+   - Dark red: Greater than $31.1K
+
+3. Scale: While there is no graphical scale bar, the map includes latitude and longitude lines that can help users approximate distances.
+
+4. Latitude and Longitude Markers: Along the borders of the map, there are markers for latitude (degrees) on the y-axis and longitude (degrees) on the x-axis.
+
+5. Location Marker: A blue dot labeled "Frankfort" indicates the location of the city of Frankfort, which is the capital of Kentucky.
+
+6. Color Coding: The counties are filled with colors corresponding to the legend, indicating the per capita income range for each county.
+
+7. Borders: The map shows the borders of the counties within Kentucky.
+
+These elements together help the user to interpret the data regarding per capita income across different counties in Kentucky.

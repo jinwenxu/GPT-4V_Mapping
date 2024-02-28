@@ -1,0 +1,15 @@
+The map provided is a choropleth map showing per capita income in West Virginia counties. The elements included in this map are:
+
+1. Title: "Choropleth Map of Per Capita Income in West Virginia Counties" at the top of the map, which describes the map's purpose.
+2. Color-coded counties: The map uses different colors to represent different ranges of per capita income across the counties in West Virginia.
+3. Legend: In the lower-left corner, there is a legend explaining the color scheme used to represent different income ranges:
+   - Light yellow represents "< $18.1K"
+   - Beige represents "$18.1K - $23.6K"
+   - Light orange represents "$23.6K - $27.0K"
+   - Dark orange represents "$27.0K - $30.0K"
+   - Red represents "> $30.0K"
+4. Latitude and longitude markers: Along the borders of the map, there are numerical markers indicating latitude (on the left and right sides) and longitude (on the bottom) in degrees.
+5. Location marker: There is a blue dot labeled "Charleston," indicating the location of the city of Charleston within the state.
+6. Grid lines: The map includes a grid overlay that corresponds to the latitude and longitude markers, helping to locate specific areas based on their geographical coordinates.
+
+These elements together provide a visual representation of the geographic distribution of per capita income across the counties of West Virginia.

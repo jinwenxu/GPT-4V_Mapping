@@ -1,0 +1,9 @@
+ The map includes the following elements:
+
+1. A base map of the state of Tennessee.
+2. A choropleth map of per capita income by county.
+3. A legend for the choropleth map.
+4. A title: "Choropleth Map of Per Capita Income in Tennessee Counties"
+5. Labels for the x- and y-axes.
+6. A scale bar.
+7. A point feature layer showing the location of Nashville, the capital of Tennessee.

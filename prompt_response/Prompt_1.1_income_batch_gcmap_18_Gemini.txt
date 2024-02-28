@@ -1,0 +1,9 @@
+ The given map is a choropleth map that uses differences in color to indicate the average per capita income in each county in the state of Indiana.
+
+It includes the following map elements:
+
+* A title: "Choropleth Map of Per Capita Income in Indiana Counties"
+* A legend: "Per Capita Income" with categories and colors
+* A scale bar
+* A graticule
+* A point feature layer showing the location of Indianapolis, the capital city of Indiana

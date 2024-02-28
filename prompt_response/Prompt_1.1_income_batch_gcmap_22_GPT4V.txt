@@ -1,0 +1,22 @@
+The map provided is a choropleth map, and it includes the following elements:
+
+1. Title: "Choropleth Map of Per Capita Income in Louisiana Counties" at the top of the map, indicating the subject and geographic area the map represents.
+
+2. Legend: A color-coded legend in the lower-left corner that explains the meaning of the map's colors, representing different ranges of per capita income:
+   - Red: "< $20.2K"
+   - Orange: "$20.2K - $23.8K"
+   - Light Orange: "$23.8K - $26.9K"
+   - Yellow: "$26.9K - $30.4K"
+   - Green: "> $30.4K"
+
+3. Labels:
+   - "Baton Rouge" label indicating the location of the city on the map.
+   - Latitude and longitude labels on the axes ("Latitude (°)" on the y-axis and "Longitude (°)" on the x-axis).
+
+4. Scale: The latitude and longitude grid lines provide a sense of scale and location, with numerical labels indicating degrees.
+
+5. Color coding: The counties are filled with colors corresponding to the legend, indicating the per capita income range for each county.
+
+6. Borders: Outlines of the counties, which demarcate the different areas being compared on the map.
+
+These elements together provide the viewer with information about the geographic distribution of per capita income across the counties of Louisiana.

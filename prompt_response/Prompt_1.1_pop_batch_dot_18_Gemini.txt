@@ -1,0 +1,9 @@
+ The map includes the following elements:
+1. A title: "Dot Density Map of Population in Indiana Counties"
+2. A legend: "Population" with three classes: 1K, 10K, and 100K
+3. A scale bar
+4. A graticule
+5. A point layer of population data
+6. A polygon layer of county boundaries
+7. A text layer for the county names
+8. A marker for the city of Indianapolis

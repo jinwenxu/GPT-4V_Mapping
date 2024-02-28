@@ -1,0 +1,7 @@
+ The map includes the following elements:
+1. A title: "Choropleth Map of Unemployment Rate in Alabama Counties"
+2. A legend: "Unemployment Rate" with 5 classes
+3. A base map with county boundaries and a blue dot标记蒙哥马利
+4. Latitude and longitude lines
+5. A scale bar
+6. A north arrow

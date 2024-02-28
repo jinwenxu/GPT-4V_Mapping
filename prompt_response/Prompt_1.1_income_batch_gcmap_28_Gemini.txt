@@ -1,0 +1,6 @@
+ The map shows a choropleth map of per capita income in Mississippi counties. It includes the following map elements:
+1. A title: "Choropleth Map of Per Capita Income in Mississippi Counties"
+2. A legend: "Per Capita Income" with five classes
+3. A scale bar
+4. A graticule
+5. A point feature layer with a label for the city of Jackson

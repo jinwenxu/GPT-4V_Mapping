@@ -1,0 +1,5 @@
+ The map includes the following elements:
+1. Springfield, the capital of Illinois, is marked with a blue dot.
+2. Unemployment rate of each county in Illinois, shown in different colors.
+3. A legend explaining the unemployment rate ranges represented by different colors.
+4. Latitude and longitude lines as reference.

@@ -1,0 +1,1 @@
+ The given figure is a dot map. It is a thematic map that shows the distribution of a particular phenomenon using dots or points. In this case, the dots represent the locations of cities in Oklahoma. The size of the dots can represent the population of each city.

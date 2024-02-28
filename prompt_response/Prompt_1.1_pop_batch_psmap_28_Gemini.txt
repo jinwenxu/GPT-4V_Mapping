@@ -1,0 +1,15 @@
+ The map includes the following elements:
+1. Title: Proportional Symbol Map of Population in Mississippi Counties
+2. Map body:
+    - A map of the state of Mississippi, showing county boundaries and proportional symbols representing the population of each county.
+    - A blue dot representing the location of the state capital, Jackson.
+3. Legend:
+    - A legend explaining the proportional symbols used to represent the population of each county.
+4. Scale bar:
+    - A scale bar showing the distance in miles represented by one inch on the map.
+5. North arrow:
+    - A north arrow showing the direction of north on the map.
+6. Grid lines:
+    - Grid lines showing the latitude and longitude of the state.
+7. Projection information:
+    - A note indicating the map projection used to create the map.

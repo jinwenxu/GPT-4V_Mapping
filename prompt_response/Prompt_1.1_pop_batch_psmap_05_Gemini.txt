@@ -1,0 +1,8 @@
+ The map includes the following elements:
+1. Title: Proportional Symbol Map of Population in Arkansas Counties
+2. Map body: A map of the state of Arkansas, showing county boundaries and proportional symbols representing the population of each county.
+3. Legend: A legend in the lower left corner of the map explains the meaning of the proportional symbols.
+4. Scale bar: A scale bar in the lower right corner of the map shows the distance in miles represented by one inch on the map.
+5. North arrow: A north arrow in the upper right corner of the map shows the direction of north.
+6. Graticule: A graticule of latitude and longitude lines is drawn over the map.
+7.Inset map: An inset map in the upper left corner of the map shows the location of Arkansas within the United States.

@@ -1,0 +1,1 @@
+The given map includes a map of North Carolina, a population density map of the state, and a dot representing the location of Raleigh, North Carolina.

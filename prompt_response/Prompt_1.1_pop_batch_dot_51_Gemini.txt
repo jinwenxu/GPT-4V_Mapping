@@ -1,0 +1,7 @@
+ The map includes the following elements:
+- A title: "Dot Density Map of Population in Virginia Counties"
+- A legend: "Population" with three classes: 1K, 10K, and 1M
+- A scale bar
+- A graticule
+- A point layer of population data
+- A polygon layer of county boundaries

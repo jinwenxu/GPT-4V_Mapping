@@ -1,0 +1,1 @@
+ The given figure is a dot map. A dot map is a thematic map that shows point data. Each dot represents a specific location, and the number of dots in an area indicates the concentration of data points in that area.

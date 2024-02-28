@@ -1,0 +1,9 @@
+ The map elements included in the given map are:
+1. Title: Proportional Symbol Map of Population in North Carolina Counties
+2. Data layer: Population of North Carolina counties
+3. Base layer: North Carolina state boundary
+4. Legend: Population size
+5. Scale bar
+6. Projection: Latitude and longitude
+7. North arrow
+8. Data source: US Census Bureau

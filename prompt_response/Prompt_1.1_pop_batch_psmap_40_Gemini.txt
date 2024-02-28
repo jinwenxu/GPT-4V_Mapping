@@ -1,0 +1,11 @@
+ The map includes the following elements:
+- A title: "Proportional Symbol Map of Population in Oklahoma Counties"
+- A legend: "Population" with 5 classes
+- A scale bar
+- A graticule
+- A point layer of cities with a population of 500,000 or more
+- A point layer of cities with a population of 100,000 to 499,999
+- A point layer of cities with a population of 50,000 to 99,999
+- A point layer of cities with a population of 10,000 to 49,999
+- A point layer of cities with a population of less than 10,000
+- A polygon layer of Oklahoma counties

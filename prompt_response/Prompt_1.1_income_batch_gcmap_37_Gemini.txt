@@ -1,0 +1,6 @@
+ The map shows a choropleth map of per capita income in North Carolina counties. It includes the following map elements:
+- A title: "Choropleth Map of Per Capita Income in North Carolina Counties"
+- A legend: "Per Capita Income" with five classes
+- A base map with county boundaries and major cities
+- A point feature layer showing the location of Raleigh, the capital of North Carolina
+- A graticule with latitude and longitude lines

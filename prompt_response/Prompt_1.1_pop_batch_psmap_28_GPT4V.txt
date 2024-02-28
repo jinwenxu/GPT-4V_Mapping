@@ -1,0 +1,12 @@
+The map elements included in the given map are:
+
+1. Title: "Proportional Symbol Map of Population in Mississippi Counties" at the top, indicating the subject and geographical focus of the map.
+2. Symbols: Proportional symbols (circles of varying sizes) represent the population of each county. The larger the circle, the higher the population.
+3. Legend: Located at the bottom left, it explains the meaning of the symbols' sizes, correlating them with population numbers (10K, 50K, 100K, 500K).
+4. Labels: The name "Jackson" is labeled, indicating a specific location on the map, presumably the capital or a significant city in Mississippi.
+5. Latitude and Longitude markers: Along the borders of the map, there are numerical indicators for latitude (vertical on the left side) and longitude (horizontal on the bottom), measured in degrees.
+6. County boundaries: Lines that delineate the borders of the counties within Mississippi.
+7. State outline: The thick line that outlines the entire state of Mississippi, including its border along the Mississippi River to the west.
+8. Scale: While there is no graphical scale bar, the latitude and longitude markers can be used to infer distances on the map.
+
+These elements together provide a visual representation of population distribution across the counties of Mississippi.

@@ -1,0 +1,7 @@
+ The given map is a choropleth map that uses differences in color to indicate the average values in those areas. It shows the population in Kansas counties. 
+
+It includes the following map elements: 
+- Title: Choropleth Map of Population in Kansas Counties
+- Legend: Population 
+- Data: Kansas counties and their populations
+- Projection: Geographic Coordinate System

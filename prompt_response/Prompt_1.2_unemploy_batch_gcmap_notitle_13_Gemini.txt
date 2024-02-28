@@ -1,0 +1,1 @@
+ This is a choropleth map that uses differences in color to indicate the average values in those areas. This map shows the unemployment rates in different counties in Georgia, USA.

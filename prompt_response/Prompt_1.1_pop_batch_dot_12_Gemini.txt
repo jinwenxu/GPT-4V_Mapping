@@ -1,0 +1,10 @@
+ The map includes the following elements:
+1. Title: "Dot Density Map of Population in Florida Counties"
+2. Map projection: "Lat/Lon"
+3. Data layer: "Population"
+4. Data symbology: "Dot density"
+5. Color scheme: "Blue"
+6. Legend: "Population"
+7. Grid lines: "Latitude and longitude"
+8. Scale bar: "Kilometers"
+9. North arrow: "True north"

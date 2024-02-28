@@ -1,0 +1,7 @@
+ The map elements included in the given map are:
+
+1. A title: "Choropleth Map of Population in Georgia Counties"
+2. A legend: "Population" with five classes
+3. A scale bar
+4. A graticule
+5. A point feature layer of Atlanta with a label

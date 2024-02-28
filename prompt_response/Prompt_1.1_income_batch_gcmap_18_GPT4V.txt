@@ -1,0 +1,22 @@
+The map you've provided is a choropleth map, which displays per capita income across different counties in the state of Indiana. Here are the map elements included in the given map:
+
+1. Title: "Choropleth Map of Per Capita Income in Indiana Counties" - This provides the viewer with the subject of the map.
+
+2. Color-coded legend: The legend on the bottom left corner indicates the range of per capita income values associated with each color on the map. The categories are as follows:
+   - Light yellow: Less than $25.2K
+   - Peach: $25.2K - $27.5K
+   - Light orange: $27.5K - $32.1K
+   - Dark orange: $32.1K - $37.5K
+   - Red: More than $37.5K
+
+3. Latitude and longitude markers: Along the borders of the map, there are markers indicating the latitude (vertical on the left side) and longitude (horizontal on the bottom) in degrees.
+
+4. County boundaries: The map shows the boundaries of the counties within Indiana.
+
+5. Point of interest: There is a blue dot labeled "Indianapolis," indicating the location of the state capital within the map.
+
+6. Scale: While there is no explicit scale bar, the latitude and longitude markers can be used to infer distances on the map.
+
+7. Border lines: The map has a border that frames the entire image.
+
+These elements together provide the viewer with a visual representation of the geographic distribution of per capita income across Indiana counties, with the ability to identify specific locations and understand the relative economic status of each county.

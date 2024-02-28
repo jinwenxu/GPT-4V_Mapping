@@ -1,0 +1,7 @@
+ The map includes the following elements:
+- A title: "Proportional Symbol Map of Population in Kentucky Counties"
+- A legend that explains the relationship between the size of the dots and the population of the county.
+- A graticule with latitude and longitude lines.
+- A blue dot to mark the location of Frankfort, the capital of Kentucky.
+- Red dots to show the population of each county.
+- County borders.

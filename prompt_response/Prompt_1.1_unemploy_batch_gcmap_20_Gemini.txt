@@ -1,0 +1,7 @@
+ The map includes the following elements:
+
+* A title: "Choropleth Map of Unemployment Rate in Kansas Counties"
+* A legend: "Unemployment Rate" with 5 classes
+* A scale bar
+* A graticule
+* A point feature layer: "Topeka"

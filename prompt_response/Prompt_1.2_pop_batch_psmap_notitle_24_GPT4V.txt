@@ -1,0 +1,1 @@
+The thematic map provided is a proportional symbol map. This type of map uses symbols, such as circles in this case, of varying sizes to represent quantitative values of a particular theme or variable across a geographic area. The map legend indicates that the size of the circles corresponds to population sizes, with larger circles representing larger populations.

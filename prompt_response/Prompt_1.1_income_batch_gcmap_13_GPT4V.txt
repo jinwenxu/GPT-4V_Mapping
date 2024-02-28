@@ -1,0 +1,15 @@
+The map provided is a choropleth map showing per capita income in Georgia counties. The elements included in this map are:
+
+1. Title: "Choropleth Map of Per Capita Income in Georgia Counties" at the top of the map, which describes the map's purpose.
+2. Color-coded legend: Located in the bottom left corner, it indicates the range of per capita income with corresponding colors:
+   - Light yellow: "< $20.5K"
+   - Yellow: "$20.5K - $25.0K"
+   - Orange: "$25.0K - $29.9K"
+   - Dark orange: "$29.9K - $37.8K"
+   - Red: "> $37.8K"
+3. Counties: The map is divided into counties, each filled with a color corresponding to the per capita income range from the legend.
+4. Major city label: "Atlanta" is labeled in the center of the map, indicating its location.
+5. Latitude and longitude markers: Along the borders of the map, there are numerical markers indicating the latitude (on the left side) and longitude (on the bottom) in degrees.
+6. Borders: The outline of Georgia and its counties are delineated with lines to show the geographical divisions.
+
+The map uses color gradation to represent different income levels, with darker colors typically representing higher income levels.

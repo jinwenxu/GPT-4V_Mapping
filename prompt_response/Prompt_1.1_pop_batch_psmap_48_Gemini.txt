@@ -1,0 +1,7 @@
+ The map includes the following elements:
+- Title: "Proportional Symbol Map of Population in Texas Counties"
+- Map body: a map of the state of Texas, showing the population of each county represented by proportional symbols
+- A legend explaining the proportional symbols
+- A graticule showing latitude and longitude
+- A scale bar showing the distance in miles
+- An inset map showing the location of Texas in the United States

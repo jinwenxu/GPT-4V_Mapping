@@ -1,0 +1,9 @@
+ The map contains the following elements:
+
+- Title: Proportional Symbol Map of Population in Tennessee Counties
+- Map body: A map of Tennessee showing the population of each county represented by proportional symbols.
+- Legend: A legend showing the relationship between the size of the symbols and the population of the counties.
+- Scale bar: A scale bar showing the distance in miles.
+- North arrow: A north arrow showing the direction of north.
+- Graticule: A graticule showing the latitude and longitude of the counties.
+-Inset map: An inset map of Tennessee showing the location of Nashville.

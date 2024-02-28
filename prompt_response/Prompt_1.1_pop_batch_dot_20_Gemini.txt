@@ -1,0 +1,9 @@
+ The map includes the following elements:
+- A base map of the state of Kansas, showing county boundaries and major cities.
+- A dot density layer showing the distribution of population across the state.
+- A legend explaining the dot density layer.
+- A title: "Dot Density Map of Population in Kansas Counties".
+- A scale bar showing the distance in miles.
+- A north arrow.
+- A graticule showing latitude and longitude.
+- A note stating the source of the data.

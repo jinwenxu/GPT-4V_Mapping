@@ -1,0 +1,1 @@
+ This is a choropleth map. It uses different colors to indicate the average per capita income in different counties in Tennessee.

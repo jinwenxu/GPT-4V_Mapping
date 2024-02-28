@@ -1,0 +1,15 @@
+The map elements included in the given choropleth map are:
+
+1. Title: "Choropleth Map of Population in Illinois Counties" at the top of the map.
+2. Color-coded legend: A legend on the bottom left corner indicating the population ranges with corresponding colors:
+   - Light yellow: "< 110.6K" (less than 110,600)
+   - Yellow: "110.6K - 307.7K" (110,600 to 307,700)
+   - Orange: "307.7K - 701.5K" (307,700 to 701,500)
+   - Dark orange: "701.5K - 929.1K" (701,500 to 929,100)
+   - Red: "> 929.1K" (greater than 929,100)
+3. County boundaries: Outlines of counties within the state of Illinois.
+4. Latitude and longitude markers: Along the borders of the map, indicating the geographical coordinates.
+5. A point marker: A blue dot labeled "Springfield," indicating the location of the city of Springfield within Illinois.
+6. Scale: The latitude and longitude markers also serve as a scale to understand the geographical extent of the map.
+
+The map uses different shades of color to represent the population density in the counties of Illinois, with darker colors typically representing higher population densities.

@@ -1,0 +1,15 @@
+The map provided is a choropleth map showing per capita income in Illinois counties. The elements included in this map are:
+
+1. Title: "Choropleth Map of Per Capita Income in Illinois Counties" at the top of the map.
+2. Color-coded legend: A legend on the bottom left side indicating the range of per capita income with corresponding colors:
+   - Light yellow for "< $24.8K"
+   - Yellow for "$24.8K - $28.6K"
+   - Orange for "$28.6K - $32.8K"
+   - Red for "$32.8K - $39.0K"
+   - Dark red for ">$39.0K"
+3. County boundaries: Outlines of counties within the state of Illinois.
+4. Latitude and longitude markers: Along the borders of the map, indicating the geographical coordinates.
+5. A marker indicating the location of Springfield, the capital city of Illinois, with a label and a blue dot.
+6. Scale of latitude and longitude: The scale is shown on the left side for latitude and on the bottom for longitude, marked in degrees (°).
+
+These elements together provide a visual representation of the distribution of per capita income across the counties of Illinois.

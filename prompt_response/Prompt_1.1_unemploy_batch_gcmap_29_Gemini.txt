@@ -1,0 +1,8 @@
+ The map includes the following elements:
+1. A base map of Missouri showing county boundaries and major cities.
+2. A choropleth map showing the unemployment rate in each county, with colors ranging from light yellow (low unemployment) to dark red (high unemployment).
+3. A legend explaining the choropleth map colors.
+4. A title: "Choropleth Map of Unemployment Rate in Missouri Counties"
+5. A scale bar.
+6. A north arrow.
+7. A point of interest: Jefferson City

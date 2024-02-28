@@ -1,0 +1,1 @@
+The thematic map provided is a choropleth map. This type of map uses different shades or colors to represent various data ranges of a particular variable in defined areas or regions. In this case, the map is showing the per capita income levels across different regions, with the color key indicating the income range associated with each color.

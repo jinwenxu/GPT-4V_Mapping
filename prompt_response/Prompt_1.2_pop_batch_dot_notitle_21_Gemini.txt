@@ -1,0 +1,1 @@
+ The given figure is a dot density thematic map. It shows the distribution of a phenomenon (e.g. population) by varying the density of dots within predefined areas.

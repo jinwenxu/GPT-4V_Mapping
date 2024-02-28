@@ -1,0 +1,7 @@
+ The map includes the following elements:
+
+- A title: "Choropleth Map of Population in Virginia Counties"
+- A legend: "Population" with 5 classes
+- A scale bar
+- A graticule
+- A point of interest: "Richmond"

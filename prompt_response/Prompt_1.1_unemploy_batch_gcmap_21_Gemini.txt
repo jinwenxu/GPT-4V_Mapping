@@ -1,0 +1,5 @@
+ The map shows the unemployment rate in Kentucky counties. It includes the following map elements:
+- A title: "Choropleth Map of Unemployment Rate in Kentucky Counties"
+- A legend: "Unemployment Rate" with 5 classes
+- A point feature layer: "Frankfort"
+- A basemap

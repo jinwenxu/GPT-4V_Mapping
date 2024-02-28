@@ -1,0 +1,1 @@
+The given map includes various elements such as a dot map of population density, a dot map of population distribution, a dot map of population in Virginia, and a dot map of population in the United States.

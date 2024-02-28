@@ -1,0 +1,9 @@
+ The map includes the following elements:
+1. A base map of the state of Florida, showing the counties and their borders.
+2. A choropleth map, showing the population of each county in Florida.
+3. A legend, showing the different population ranges and their corresponding colors.
+4. A title, showing the name of the map.
+5. A scale bar, showing the distance in miles.
+6. A north arrow, showing the direction of north.
+7. A graticule, showing the latitude and longitude lines.
+8. An inset map, showing the location of Florida within the United States.

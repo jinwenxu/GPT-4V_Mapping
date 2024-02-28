@@ -1,0 +1,17 @@
+The map elements included in the given choropleth map are:
+
+1. Title: "Choropleth Map of Population in Missouri Counties" at the top of the map.
+2. Legend: A color-coded legend in the lower-left corner indicating the population ranges for the counties:
+   - Light yellow: "< 45.5K" (less than 45,500)
+   - Yellow: "45.5K - 177.7K" (45,500 to 177,700)
+   - Orange: "177.7K - 394.3K" (177,700 to 394,300)
+   - Red: "394.3K - 696.2K" (394,300 to 696,200)
+   - Dark red: "> 696.2K" (greater than 696,200)
+3. Labels: "Jefferson City" is labeled, indicating the location of the state capital.
+4. Latitude and Longitude: The map is marked with latitude and longitude lines, with labels on the axes indicating degrees.
+   - Latitude (Y-axis) is marked from 36° to 40°.
+   - Longitude (X-axis) is marked from -96° to -89°.
+5. Color Coding: The counties are color-coded according to the population ranges specified in the legend.
+6. Borders: The map shows the borders of the counties within the state of Missouri.
+
+The map does not include a scale bar, north arrow, or source citation, which are also common elements in many maps.

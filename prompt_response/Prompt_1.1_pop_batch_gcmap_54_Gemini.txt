@@ -1,0 +1,11 @@
+ The map elements included in the given map are:
+
+1. Title: "Choropleth Map of Population in West Virginia Counties"
+2. Map projection: Albers Equal Area
+3. Data: Population by county
+4. Color scheme: Red-orange-yellow
+5. Legend: Population ranges
+6. Grid lines: Latitude and longitude
+7. Scale bar
+8. North arrow
+9. Point of interest: Charleston, WV

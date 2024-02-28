@@ -1,0 +1,8 @@
+ The map includes the following elements:
+1. A title: "Dot Density Map of Population in North Carolina Counties"
+2. A legend: "Population" with four classes: 1K, 10K, 100K, and 1M
+3. A scale bar
+4. A graticule
+5. A point layer of dots representing population data
+6. A polygon layer of North Carolina counties
+7. A marker representing the city of Raleigh

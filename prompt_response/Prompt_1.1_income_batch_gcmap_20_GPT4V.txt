@@ -1,0 +1,18 @@
+The map provided is a choropleth map, which uses differences in shading, coloring, or the placing of symbols within predefined areas to indicate the average values of a property or quantity in those areas. Here are the map elements included in the given map:
+
+1. Title: "Choropleth Map of Per Capita Income in Kansas Counties" - This provides the viewer with the subject of the map.
+
+2. Color Legend (Key): Located in the lower-left corner, it explains the color coding used on the map to represent different ranges of per capita income:
+   - Yellow shades represent income less than $25.4K.
+   - Light orange shades represent income between $25.4K and $28.5K.
+   - Orange shades represent income between $28.5K and $31.0K.
+   - Dark orange shades represent income between $31.0K and $35.7K.
+   - Red shades represent income greater than $35.7K.
+
+3. Latitude and Longitude Markers: These are along the borders of the map, providing a geographic reference for the map's location. Latitude is marked on the y-axis (vertical) and longitude on the x-axis (horizontal).
+
+4. County Boundaries: The map shows the borders of counties within Kansas, which are the areas that the map's data is divided into.
+
+5. City Marker: There is a blue dot labeled "Topeka," indicating the location of the city of Topeka within the state of Kansas.
+
+These elements together provide the viewer with a visual representation of per capita income distribution across the counties of Kansas.
